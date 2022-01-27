@@ -8,7 +8,8 @@
 🤖 Most recent project 最新の制作:<br>
 - Squirebot - fully functioning database connected discord bot, written in python using psycopg2's postgres database connectivity and discord's newest API.
 
-[External Site](maikerupero.smugmug.com)
+📷 Visual Portfolio ポートフォリオ:<br>
+- [External Site](maikerupero.smugmug.com)
 
 🛣 Timeline 経歴:<br>
 | Time        | Project | Description
