@@ -1,6 +1,5 @@
-### Hi! I'm Michael. こんにちは、マイケルと申します。🌱
+Hi! I'm Michael. こんにちは、マイケルと申します。🌱
 
-***
 🔭 Currently working on 現在作業中プロジェクト:<br>
 - 📋 Various webapp projects, new rikaikun (chrome extension for JA/EN learning).
 - 🤖 Maintaining and adding to Squirebot
