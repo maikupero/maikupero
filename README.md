@@ -2,8 +2,9 @@
 
 ***
 🔭 Currently working on 現在作業中プロジェクト:<br>
-- Various webapp projects, new rikaikun (chrome extension for JA/EN learning).
-- Open to any collaboration and open-source opportunities.
+- 📋 Various webapp projects, new rikaikun (chrome extension for JA/EN learning).
+- 🤖 Maintaining and adding to Squirebot
+- 👌 Open to any collaboration and open-source opportunities.
 
 📷 Visual Portfolio ポートフォリオ:<br>
 - [External Site](maikerupero.smugmug.com)
