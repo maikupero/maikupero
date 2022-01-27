@@ -10,15 +10,15 @@
 📷 Visual portfolio ポートフォリオ:<br>
 - maikerupero.smugmug.com:
 
-***
+🧗‍♂️ About me 自己紹介:<br>
+        I spent my 20s pushing myself towards various challenges, projects and adventures, all while living abroad and self-supported. 
+
+        As a result, I've been a teacher, a translator, a barista, a bike tour company founder & guide, a pilgrim, a travel interviewer (i.e Humans of New York), a successful photo/videographer, a local business consultant, and a web designer.
+
+        All of that is coming together in coding - my fulltime study and primary focus going forward.<br> 
+        Please feel free to ask me about any of my experiences - I'd be happy to tell you about them, and feel confident that they have all held irreplacable value towards making me a more complete human and interestingly, a better programmer. 
+
 🛣 Timeline 経歴:<br>
-I spent my 20s pushing myself towards various challenges, projects and adventures, all while living abroad and self-supported. 
-
-As a result, I've been a teacher, a translator, a barista, a bike tour company founder & guide, a pilgrim, a travel interviewer (i.e Humans of New York), a successful photo/videographer, a local business consultant, and a web designer.
-
-All of that is coming together in coding - my fulltime study and primary focus going forward.<br> 
-Please feel free to ask me about any of my experiences - I'd be happy to tell you about them, and feel confident that they have all held irreplacable value towards making me a more complete human and interestingly, a better programmer. 
-
 | Time        | Project | Description
 | ----------- | ----------- | ----------- | 
 | Jan 2022    | Squirebot | Fully functioning Discord bot written in python using Discord's newest api,<br>connected through psycopg2 to a Heroku-powered postgres database.|
