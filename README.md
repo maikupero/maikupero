@@ -1,4 +1,4 @@
-Hi! I'm Michael. こんにちは、マイケルと申します。🌱
+🌱 Hi, I'm Michael. こんにちは、マイケルと申します。
 
 🔭 Currently working on 現在作業中プロジェクト:<br>
 - 📋 Various webapp projects, new rikaikun (chrome extension for JA/EN learning).
@@ -26,7 +26,7 @@ Hi! I'm Michael. こんにちは、マイケルと申します。🌱
 > All of that is coming together in coding - my fulltime study and primary focus going forward.<br> 
 > Please feel free to ask me about any of my experiences - I'd be happy to tell you about them, and feel confident that they have all held irreplacable value towards making me a more complete human and interestingly, a better programmer. 
 
-📝 Approach:<br>
+📝 Approach 勉強法:<br>
 Overall I'm approaching coding as a language, just as I taught myself Japanese to fluency. I try to balance these 4:
 + Deconstructive Approach - Daily problems and practice, algorithms and logic, developing the native mindset.
 + Constructive Approach - Lots of personal projects - try to make any idea you can conceptualize.
