@@ -7,7 +7,7 @@
 - 👌 Open to any collaboration and open-source opportunities.
 
 📷 Visual Portfolio ポートフォリオ:<br>
-- [External Site](maikerupero.smugmug.com)
+- [External Site](https://maikerupero.smugmug.com)
 
 🛣 Timeline 経歴:<br>
 | Time        | Project | Description
