@@ -26,7 +26,7 @@
 > I'm confident that my rich background has made me a more complete human and a better programmer, so please don't hesitate to ask me about any of my experiences.
 
 📝 Approach || 勉強法:<br>
-> Overall I'm approaching coding as a language, just as I taught myself Japanese to fluency. I try to balance these 4:
+> Overall I'm approaching coding as a language, just as I taught myself to fluency in Japanese. I try to balance these 4:
 > + Deconstructive Approach - Daily problems and practice, algorithms and logic, developing the native mindset.
 > + Constructive Approach - Lots of personal projects - try to make any idea you can conceptualize.
 > + Fundamentals - Follow any course as far as it continues to feel interesting, useful and concise.
