@@ -11,11 +11,11 @@
 🛣 Timeline || 経歴:<br>
 | Time        | Project | Description
 | ----------- | ----------- | ----------- | 
-| Jan 2022 | [Application](https://github.com/maikupero/squirebot) | Squirebot - a Discord bot written in Python using [Discord's newest API](https://discord.com/developers/docs/intro), connected through [psycopg2](https://pypi.org/project/psycopg2/) to a [Heroku](https://heroku.com)-powered [PostgreSQL](https://www.postgresql.org/) database. |
-| Dec 2021 | [Practice](https://github.com/maikupero/fatpad/tree/master/practice) | [Daily community coding challenge](https://adventofcode.com/2021) training algorithms in Ruby, Python, C with senior engineers. |
-| Sep - Nov 2021 | [Fundamentals](https://github.com/maikupero/fatpad/tree/master/studies/cs50x) | [Course](https://cs50.harvard.edu/x/2021/) spanning from low-level [C](https://cs50.harvard.edu/x/2021/weeks/5/) to [front-end web dev](https://cs50.harvard.edu/x/2021/weeks/8/) and [SQL](https://cs50.harvard.edu/x/2021/weeks/7/). |
-| Sep 2021 | [Exploration](https://github.com/maikupero/fatpad/blob/master/resources) | Explored [Rust](https://github.com/maikupero/fatpad/tree/master/studies/rust) & [C++](https://github.com/maikupero/fatpad/blob/master/studies/learncpp/learncpp%20notes). Built [Quiz app](https://maikupero.github.io/quiz-app/index.html) and [Countdown Timer](https://maikupero.github.io/countdown-timer/index.html) app in JS and hosted on [Github Pages](https://pages.github.com/). |
-| July - Sep 2021 | [Immersion](https://github.com/maikupero/fatpad/tree/master/practice/js) | Daily Practice on Codewars & Leetcode in JS. |
+| Jan 2022 | [Squirebot](https://github.com/maikupero/squirebot) | Discord bot written in Python using [Discord's newest API](https://discord.com/developers/docs/intro), connected through [psycopg2](https://pypi.org/project/psycopg2/) to a [Heroku](https://heroku.com)-powered [PostgreSQL](https://www.postgresql.org/) database. More to come!|
+| Dec 2021 | [Varied Practice](https://github.com/maikupero/fatpad/tree/master/practice) | Such as [Advent of Code](https://adventofcode.com/2021), [daily coding challenge training algorithms] in Ruby, Python, C with senior engineers. |
+| Sep - Nov 2021 | [Fundamental Knowledge, Low-level Systems](https://github.com/maikupero/fatpad/tree/master/studies/cs50x) | [Online Course by Harvard](https://cs50.harvard.edu/x/2021/) spanning from low-level [C](https://cs50.harvard.edu/x/2021/weeks/5/) to [front-end web dev](https://cs50.harvard.edu/x/2021/weeks/8/) and [SQL](https://cs50.harvard.edu/x/2021/weeks/7/). |
+| Sep 2021 | [Exploration](https://github.com/maikupero/fatpad/blob/master/resources) | Such as [Rust](https://github.com/maikupero/fatpad/tree/master/studies/rust) & [C++](https://github.com/maikupero/fatpad/blob/master/studies/learncpp/learncpp%20notes), a [Grid-based Game webapp](https://github.com/maikupero/fatpad/tree/master/practice/web_dev/youtube%20grid%20tutorial), and then hosted a JS [Quiz app](https://maikupero.github.io/quiz-app/index.html) and [Countdown Timer](https://maikupero.github.io/countdown-timer/index.html) on [Github Pages](https://pages.github.com/). |
+| July - Sep 2021 | [Initial Immersion](https://github.com/maikupero/fatpad/tree/master/practice/js) | Daily Practice on Codewars & Leetcode in JS. |
 
 🧗‍♂️ About me || 自己紹介:<br>
 
