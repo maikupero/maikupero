@@ -12,7 +12,7 @@
 🛣 Timeline || 経歴:<br>
 | Time        | Project | Description
 | ----------- | ----------- | ----------- | 
-| Feb 2022 | [Find Us A Game](https://github.com/maikupero/find_us_a_game) | React Frontend, Flask Backend, and connected to an AWS database to find the right game for you and your friends. | 
+| Feb 2022 | [Find Us A Game](https://github.com/maikupero/find_us_a_game) | [React Frontend](https://reactjs.org/) [Flask Backend](https://flask.palletsprojects.com/en/2.0.x/), and connected to an [AWS database](https://aws.amazon.com/) to find the right game for you and your friends. | 
 | Jan 2022 | [Squirebot](https://github.com/maikupero/squirebot) | Discord bot written in Python using [Discord's newest API](https://discord.com/developers/docs/intro), connected through [psycopg2](https://pypi.org/project/psycopg2/) to a [Heroku](https://heroku.com)-powered [PostgreSQL](https://www.postgresql.org/) database. More to come!|
 | Dec 2021 | [Varied Practice](https://github.com/maikupero/fatpad/tree/master/practice) | [Advent of Code](https://adventofcode.com/2021), and other daily algorithm practice in Ruby, Python, C with senior engineers. |
 | Sep - Nov 2021 | [Fundamental Knowledge, Low-level Systems](https://github.com/maikupero/fatpad/tree/master/studies/cs50x) | Online Course [CS50 by Harvard](https://cs50.harvard.edu/x/2021/) spanning from low-level [C](https://cs50.harvard.edu/x/2021/weeks/5/) to [front-end web dev](https://cs50.harvard.edu/x/2021/weeks/8/) and [SQL](https://cs50.harvard.edu/x/2021/weeks/7/). |
