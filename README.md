@@ -1,7 +1,7 @@
 🌱 Hi, I'm Michael. || こんにちは、マイケルと申します。
 
 🔭 Currently working on || 現在作業中プロジェクト:<br>
-- 🔧 Currently Developiong: [Find Us A Game](https://github.com/maikupero/find_us_a_game).
+- 🔧 Currently Developing: [Find Us A Game](https://github.com/maikupero/find_us_a_game).
 - 🤖 Maintaining and expanding: [Squirebot](https://github.com/maikupero/squirebot). 
 - 👌 Open-source collaboration on language, games, esports, data visualization.
 - 📋 Planned: Develop a reverse [Rikaikun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp?hl=en) chrome extension for JA/EN learning.
