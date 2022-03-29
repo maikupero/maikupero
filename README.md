@@ -1,6 +1,7 @@
 🌱 Hi, I'm Michael. || こんにちは、マイケルと申します。
 
 🔭 Currently working on || 現在作業中プロジェクト:<br>
+*** Brief Maintenance ***
 - ⭐ Assorted webapps at my [github pages hosted site](https://maikupero.github.io/).
 - 🔧 Next project: [Find Us A Game](https://github.com/maikupero/find_us_a_game).
 - 🤖 Maintaining and expanding: [Squirebot](https://github.com/maikupero/squirebot). 
