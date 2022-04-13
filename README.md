@@ -3,8 +3,8 @@
 🔭 Currently working on || 現在作業中プロジェクト:<br>
 
 
-- ⭐ *** Brief Maintenance *** Assorted webapps at my [github pages hosted site](https://maikupero.github.io/).
-- 🔧 Next project: [Find Us A Game](https://github.com/maikupero/find_us_a_game).
+- ⭐ Brief Maintenance Assorted webapps at my [github pages hosted site](https://maikupero.github.io/).
+- 🔧 Diving in from 4/13: [Find Us A Game](https://github.com/maikupero/find_us_a_game).
 - 🤖 Maintaining and expanding: [Squirebot](https://github.com/maikupero/squirebot). 
 - 📋 Planned: Develop a reverse [Rikaikun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp?hl=en) chrome extension for JA/EN learning.
 - 👌 Open-source collaboration on language, games, esports, data visualization.
@@ -15,6 +15,7 @@
 🛣 Timeline || 経歴:<br>
 | Time        | Project | Description
 | ----------- | ----------- | ----------- | 
+| March 2022 | [React & Svelte](https://github.com/maikupero/fatpad/tree/master/studies/web_dev) | Two private front end projects to learn the frameworks, displaying api data via get requests dynamically on a responsive page.
 | Feb 2022 | [Find Us A Game](https://github.com/maikupero/find_us_a_game) | [React](https://reactjs.org/) Frontend, [Flask](https://flask.palletsprojects.com/en/2.0.x/) Backend, connected to an [AWS database](https://aws.amazon.com/) to find the right game for you and your friends. | 
 | Jan 2022 | [Squirebot](https://github.com/maikupero/squirebot) | Discord bot written in Python using [Discord's newest API](https://discord.com/developers/docs/intro), connected through [psycopg2](https://pypi.org/project/psycopg2/) to a [Heroku](https://heroku.com)-powered [PostgreSQL](https://www.postgresql.org/) database. More to come!|
 | Dec 2021 | [Varied Practice](https://github.com/maikupero/fatpad/tree/master/practice) | [Advent of Code](https://adventofcode.com/2021), and other daily algorithm practice in Ruby, Python, C with senior engineers. |
