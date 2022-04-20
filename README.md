@@ -3,8 +3,8 @@
 🔭 Currently working on || 現在作業中プロジェクト:<br>
 
 
-- ⭐ Brief Maintenance Assorted webapps at my [github pages hosted site](https://maikupero.github.io/).
-- 🔧 Diving in from 4/13: [Find Us A Game](https://github.com/maikupero/find_us_a_game).
+- ⭐ Assorted webapps at my [github pages hosted site](https://maikupero.github.io/).
+- 🔧 Diving in: [Find Us A Game](https://github.com/maikupero/find_us_a_game).
 - 🤖 Maintaining and expanding: [Squirebot](https://github.com/maikupero/squirebot). 
 - 📋 Planned: Develop a reverse [Rikaikun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp?hl=en) chrome extension for JA/EN learning.
 - 👌 Open-source collaboration on language, games, esports, data visualization.
