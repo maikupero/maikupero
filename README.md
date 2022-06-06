@@ -3,10 +3,11 @@
 🔭 Currently working on || 現在作業中プロジェクト:<br>
 
 
-- ⭐ Assorted webapps at my [github pages hosted site](https://maikupero.github.io/).
-- 🔧 Diving in: [Find Us A Game](https://github.com/maikupero/find_us_a_game).
+- ⭐ Assorted webapps at my [github pages hosted site](https://maikupero.github.io/). [React sandbox experiments](https://github.com/maikupero/react_sandbox) with state and hooks.
+- 🔧 Diving in: [Plexicon](https://github.com/maikupero/plexicon) Clicker-idle game written for practice in React JS, using Redux for state management. 
 - 🤖 Maintaining and expanding: [Squirebot](https://github.com/maikupero/squirebot). 
 - 📋 Planned: Develop a reverse [Rikaikun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp?hl=en) chrome extension for JA/EN learning.
+- [Find Us A Game](https://github.com/maikupero/find_us_a_game).
 - 👌 Open-source collaboration on language, games, esports, data visualization.
 
 📷 Visual Portfolio || ポートフォリオ:<br>
