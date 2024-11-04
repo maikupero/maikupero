@@ -1,8 +1,13 @@
 🌱 Hi, I'm Michael. || こんにちは、マイケルと申します。
-
 🏠 Currently based in Vancouver, BC. || 現在はカナダのバンクーバーに住んでいます。
-
 🔭 Currently working on || 現在作業中プロジェクト:<br>
+🇨🇦 2024
+🇺🇸 2022
+🇸🇪 2021
+🇯🇵 2015
+🇺🇸 / 🇨🇦 Born
+
+🔭 Currently working on: || 現在作業中プロジェクト:<br>
 
 - 🐄 Mostly, enjoying fulfilling work at [One Cow Standing](https://www.onecowstanding.com/). That mostly entails wearing a lot of hats beyond all that hats involved in just modern full stack web/mobile development. Large emphasis on the people we work with, the people we work for, and the good our projects can manifest in the world. 
 
